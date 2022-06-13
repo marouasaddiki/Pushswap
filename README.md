@@ -15,6 +15,7 @@ Vous devez faire un programme qui prend en paramètre la pile a sous la forme d�
     rrr : rra et rrb en même temps.
     
     
-    Usages
-./push_swap 2 1 3 6 5 8
-sa pb pb pb sa pa pa pa
+   Usages
+    
+    ./push_swap 2 1 3 6 5 8
+    sa pb pb pb sa pa pa pa
